@@ -1,0 +1,879 @@
+{
+  "tweets": [
+    {
+      "id": 0,
+      "user": {
+        "name": "Mangalya Kocchar",
+        "username": "Dayaamay.Achari",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/akashsharma39/128.jpg",
+        "cover": "http://lorempixel.com/640/480/nature",
+        "bio": "Qui mollitia error eveniet eligendi nihil iste dolores natus ab.",
+        "location": "Joshitown",
+        "following": 691,
+        "followers": 6997
+      },
+      "time": "2019-01-10T03:41:07.214Z",
+      "tweetContent": "Sed autem et voluptas vitae consectetur rerum doloribus. Omnis omnis saepe quia.",
+      "likes": 243,
+      "retweets": 98,
+      "replies": 493
+    },
+    {
+      "id": 1,
+      "user": {
+        "name": "Bhadraksh Marar MD",
+        "username": "Anjali.Gowda12",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/aio___/128.jpg",
+        "cover": "http://lorempixel.com/640/480/technics",
+        "bio": "Quas ut ex quo magni quae voluptates sunt magnam qui.",
+        "location": "South Shivakariport",
+        "following": 546,
+        "followers": 2739
+      },
+      "time": "2019-01-03T11:38:45.564Z",
+      "tweetContent": "Nam voluptas quia aperiam alias quis quaerat quos tempora. Omnis sed maxime necessitatibus rerum.",
+      "likes": 485,
+      "retweets": 20,
+      "replies": 399
+    },
+    {
+      "id": 2,
+      "user": {
+        "name": "Agrata Namboothiri",
+        "username": "Dipesh.Achari",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/davecraige/128.jpg",
+        "cover": "http://lorempixel.com/640/480/sports",
+        "bio": "Sed nam asperiores quam dolor.",
+        "location": "South Jitendra",
+        "following": 307,
+        "followers": 2719
+      },
+      "time": "2019-01-03T16:13:33.293Z",
+      "tweetContent": "Repellat et non. Recusandae itaque nesciunt sapiente eum modi.",
+      "likes": 416,
+      "retweets": 453,
+      "replies": 210
+    },
+    {
+      "id": 3,
+      "user": {
+        "name": "Mr. Gopal Naik",
+        "username": "Drona_Tagore",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/lowie/128.jpg",
+        "cover": "http://lorempixel.com/640/480/nightlife",
+        "bio": "Odit veniam impedit velit rerum accusamus necessitatibus dolores cupiditate doloremque.",
+        "location": "North Rati",
+        "following": 825,
+        "followers": 4173
+      },
+      "time": "2019-01-08T07:06:10.651Z",
+      "tweetContent": "Deserunt consequuntur fugiat doloremque. Magnam et quo commodi eos qui dolores sunt incidunt.",
+      "likes": 167,
+      "retweets": 153,
+      "replies": 441
+    },
+    {
+      "id": 4,
+      "user": {
+        "name": "Dron Dhawan DVM",
+        "username": "Chandramani33",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jpscribbles/128.jpg",
+        "cover": "http://lorempixel.com/640/480/cats",
+        "bio": "Et nam occaecati et iste aut.",
+        "location": "Lake Devajyotiburgh",
+        "following": 692,
+        "followers": 4716
+      },
+      "time": "2019-01-11T15:49:01.729Z",
+      "tweetContent": "Minus architecto veritatis porro voluptates. Consequuntur est eaque.",
+      "likes": 215,
+      "retweets": 56,
+      "replies": 105
+    },
+    {
+      "id": 5,
+      "user": {
+        "name": "Chandraketu Ganaka Jr.",
+        "username": "Shantanu75",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/marclgonzales/128.jpg",
+        "cover": "http://lorempixel.com/640/480/animals",
+        "bio": "Nobis sed nisi iure autem.",
+        "location": "Port Manishabury",
+        "following": 531,
+        "followers": 6693
+      },
+      "time": "2019-01-02T23:14:50.463Z",
+      "tweetContent": "Laboriosam fugiat numquam quibusdam consequatur rerum officia omnis sapiente voluptas. Et molestiae quas magnam consequatur.",
+      "likes": 82,
+      "retweets": 206,
+      "replies": 417
+    },
+    {
+      "id": 6,
+      "user": {
+        "name": "Jagdeep Tagore",
+        "username": "Kumari_Marar",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/switmer777/128.jpg",
+        "cover": "http://lorempixel.com/640/480/sports",
+        "bio": "Nostrum necessitatibus consequuntur.",
+        "location": "Arorafort",
+        "following": 727,
+        "followers": 3896
+      },
+      "time": "2019-01-04T04:46:13.090Z",
+      "tweetContent": "Corrupti iste laudantium ad distinctio quidem impedit enim earum. Quasi architecto aut non et similique et ipsum harum.",
+      "likes": 368,
+      "retweets": 373,
+      "replies": 440
+    },
+    {
+      "id": 7,
+      "user": {
+        "name": "Prasad Khatri",
+        "username": "Siddarth27",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/nicolai_larsen/128.jpg",
+        "cover": "http://lorempixel.com/640/480/sports",
+        "bio": "Voluptatem sunt non.",
+        "location": "East Dandak",
+        "following": 242,
+        "followers": 3817
+      },
+      "time": "2019-01-04T09:25:14.090Z",
+      "tweetContent": "Aut aspernatur velit ut ipsa laborum. Dolores voluptas dolores accusantium veniam blanditiis odio est laboriosam vero.",
+      "likes": 274,
+      "retweets": 221,
+      "replies": 273
+    },
+    {
+      "id": 8,
+      "user": {
+        "name": "Kama Iyer",
+        "username": "Chandramani67",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/antjanus/128.jpg",
+        "cover": "http://lorempixel.com/640/480/food",
+        "bio": "Velit aut et sapiente deserunt in dolorum quidem facere in.",
+        "location": "Trilokanathside",
+        "following": 120,
+        "followers": 6827
+      },
+      "time": "2019-01-09T01:32:34.054Z",
+      "tweetContent": "Laboriosam provident modi dolor et amet est. Velit ut nesciunt ut animi aut voluptatem optio.",
+      "likes": 487,
+      "retweets": 43,
+      "replies": 423
+    },
+    {
+      "id": 9,
+      "user": {
+        "name": "Ganak Gupta",
+        "username": "Bhagavaan.Kaniyar16",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/chandlervdw/128.jpg",
+        "cover": "http://lorempixel.com/640/480/food",
+        "bio": "Deserunt corporis et ut aliquid rerum.",
+        "location": "Port Dhyanesh",
+        "following": 639,
+        "followers": 7306
+      },
+      "time": "2019-01-05T07:42:04.949Z",
+      "tweetContent": "Voluptas aut laboriosam. Alias et omnis.",
+      "likes": 183,
+      "retweets": 66,
+      "replies": 111
+    },
+    {
+      "id": 10,
+      "user": {
+        "name": "Chandraswaroopa Dutta II",
+        "username": "Chakravartee.Dhawan",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/elliotnolten/128.jpg",
+        "cover": "http://lorempixel.com/640/480/transport",
+        "bio": "Illum expedita et qui.",
+        "location": "Anilaabhmouth",
+        "following": 716,
+        "followers": 807
+      },
+      "time": "2019-01-01T20:15:27.624Z",
+      "tweetContent": "Vitae aspernatur dolor voluptas eligendi porro excepturi eligendi. Laborum sapiente excepturi vero dolor tenetur voluptate eius.",
+      "likes": 12,
+      "retweets": 131,
+      "replies": 94
+    },
+    {
+      "id": 11,
+      "user": {
+        "name": "Aatmaj Shukla",
+        "username": "Gemine71",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/dcalonaci/128.jpg",
+        "cover": "http://lorempixel.com/640/480/food",
+        "bio": "Totam rerum id voluptates sed voluptate ullam dolores recusandae dolor.",
+        "location": "East Subhasini",
+        "following": 856,
+        "followers": 2115
+      },
+      "time": "2019-01-09T01:25:10.763Z",
+      "tweetContent": "Nesciunt rem iste. Ea sint quod provident laudantium necessitatibus.",
+      "likes": 330,
+      "retweets": 319,
+      "replies": 215
+    },
+    {
+      "id": 12,
+      "user": {
+        "name": "Lai Achari",
+        "username": "Gandharv_Marar14",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/thedamianhdez/128.jpg",
+        "cover": "http://lorempixel.com/640/480/nightlife",
+        "bio": "Deserunt quis rerum iure quisquam excepturi cum omnis.",
+        "location": "West Gaurangmouth",
+        "following": 451,
+        "followers": 8235
+      },
+      "time": "2019-01-04T04:18:47.268Z",
+      "tweetContent": "Deserunt nam eligendi sit quos temporibus. Nihil odit nobis aut quo mollitia cumque tenetur rerum est.",
+      "likes": 54,
+      "retweets": 141,
+      "replies": 95
+    },
+    {
+      "id": 13,
+      "user": {
+        "name": "Mr. Suman Jain",
+        "username": "Atmaja_Guha",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/Silveredge9/128.jpg",
+        "cover": "http://lorempixel.com/640/480/people",
+        "bio": "Blanditiis nisi distinctio.",
+        "location": "Atmajaton",
+        "following": 292,
+        "followers": 8239
+      },
+      "time": "2019-01-02T07:19:30.049Z",
+      "tweetContent": "Rerum quo delectus nam. Nulla vero in.",
+      "likes": 98,
+      "retweets": 184,
+      "replies": 464
+    },
+    {
+      "id": 14,
+      "user": {
+        "name": "Ghanaanand Kaniyar",
+        "username": "Acaryatanaya.Kocchar67",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/karlkanall/128.jpg",
+        "cover": "http://lorempixel.com/640/480/fashion",
+        "bio": "Iure pariatur earum repellendus autem consequatur architecto maiores nam.",
+        "location": "Tandonview",
+        "following": 127,
+        "followers": 1776
+      },
+      "time": "2019-01-07T14:44:55.716Z",
+      "tweetContent": "Aperiam culpa et sint voluptas. Atque minima iste.",
+      "likes": 163,
+      "retweets": 451,
+      "replies": 381
+    },
+    {
+      "id": 15,
+      "user": {
+        "name": "Uma Kakkar",
+        "username": "Ananta.Iyer",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/baumannzone/128.jpg",
+        "cover": "http://lorempixel.com/640/480/city",
+        "bio": "Rerum provident explicabo voluptatem consectetur tempore perspiciatis voluptatem architecto esse.",
+        "location": "Balaville",
+        "following": 1,
+        "followers": 2555
+      },
+      "time": "2019-01-09T09:18:35.090Z",
+      "tweetContent": "Adipisci minus sit quis voluptas sed sint. Magni dolorem ut provident impedit cupiditate ducimus fuga.",
+      "likes": 413,
+      "retweets": 113,
+      "replies": 313
+    },
+    {
+      "id": 16,
+      "user": {
+        "name": "Daksha Patel",
+        "username": "Aishani.Chaturvedi52",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/rob_thomas10/128.jpg",
+        "cover": "http://lorempixel.com/640/480/sports",
+        "bio": "Placeat porro possimus quaerat voluptates minima ipsam sed.",
+        "location": "Ghanashyamtown",
+        "following": 419,
+        "followers": 3288
+      },
+      "time": "2019-01-09T08:15:49.597Z",
+      "tweetContent": "Cupiditate et et exercitationem nobis facere ea similique. Modi dolores repellat asperiores quibusdam aut quasi quibusdam quis.",
+      "likes": 131,
+      "retweets": 326,
+      "replies": 162
+    },
+    {
+      "id": 17,
+      "user": {
+        "name": "Dakshayani Sethi",
+        "username": "Abhirath42",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/souuf/128.jpg",
+        "cover": "http://lorempixel.com/640/480/sports",
+        "bio": "Quia ut asperiores ex optio tempore.",
+        "location": "Ramaachester",
+        "following": 858,
+        "followers": 3146
+      },
+      "time": "2019-01-09T20:39:24.471Z",
+      "tweetContent": "Tempora doloribus delectus non est dolor. Et ut neque nisi alias in enim.",
+      "likes": 43,
+      "retweets": 476,
+      "replies": 52
+    },
+    {
+      "id": 18,
+      "user": {
+        "name": "Mrs. Anil Gupta",
+        "username": "Priyala_Bandopadhyay",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bertboerland/128.jpg",
+        "cover": "http://lorempixel.com/640/480/technics",
+        "bio": "Labore id reiciendis qui tempore sit veritatis.",
+        "location": "Port Datta",
+        "following": 139,
+        "followers": 869
+      },
+      "time": "2019-01-11T05:55:30.973Z",
+      "tweetContent": "Rerum omnis placeat omnis. Odit maiores deserunt labore dolorem cum vitae aspernatur eveniet.",
+      "likes": 29,
+      "retweets": 433,
+      "replies": 430
+    },
+    {
+      "id": 19,
+      "user": {
+        "name": "Ms. Anilabh Mehra",
+        "username": "Bhoj.Somayaji79",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/yesmeck/128.jpg",
+        "cover": "http://lorempixel.com/640/480/city",
+        "bio": "Quia cum enim labore.",
+        "location": "Port Chandrabhaga",
+        "following": 464,
+        "followers": 1856
+      },
+      "time": "2019-01-10T12:45:48.754Z",
+      "tweetContent": "Aut quo recusandae eveniet impedit. Quam et soluta quos labore sit ea voluptas.",
+      "likes": 420,
+      "retweets": 47,
+      "replies": 228
+    },
+    {
+      "id": 20,
+      "user": {
+        "name": "Anilaabh Khanna",
+        "username": "Jyotsana.Patel88",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/trubeatto/128.jpg",
+        "cover": "http://lorempixel.com/640/480/fashion",
+        "bio": "Voluptates odit est deleniti tempora.",
+        "location": "East Agastyaborough",
+        "following": 127,
+        "followers": 2499
+      },
+      "time": "2019-01-10T06:29:24.393Z",
+      "tweetContent": "Et nihil id quis natus aut. Accusamus quia explicabo.",
+      "likes": 408,
+      "retweets": 25,
+      "replies": 280
+    },
+    {
+      "id": 21,
+      "user": {
+        "name": "Mrs. Narinder Kakkar",
+        "username": "Malti55",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/sta1ex/128.jpg",
+        "cover": "http://lorempixel.com/640/480/technics",
+        "bio": "Sed nesciunt ea.",
+        "location": "South Chakradhar",
+        "following": 191,
+        "followers": 3285
+      },
+      "time": "2019-01-02T10:37:37.556Z",
+      "tweetContent": "Consequatur pariatur dolor nisi et earum. Error sit ad molestiae rerum sit consequatur nihil hic.",
+      "likes": 36,
+      "retweets": 229,
+      "replies": 495
+    },
+    {
+      "id": 22,
+      "user": {
+        "name": "Darshan Bharadwaj",
+        "username": "Swarnalata.Patel",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/manekenthe/128.jpg",
+        "cover": "http://lorempixel.com/640/480/business",
+        "bio": "Molestiae commodi architecto.",
+        "location": "Bhaaswarstad",
+        "following": 897,
+        "followers": 9963
+      },
+      "time": "2019-01-11T08:13:24.593Z",
+      "tweetContent": "Aut culpa excepturi sit et culpa possimus odio. Ipsum ab quasi.",
+      "likes": 439,
+      "retweets": 63,
+      "replies": 185
+    },
+    {
+      "id": 23,
+      "user": {
+        "name": "Radha Gill",
+        "username": "Chandan_Nehru71",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mslarkina/128.jpg",
+        "cover": "http://lorempixel.com/640/480/food",
+        "bio": "Quae earum nam a eos nostrum culpa libero dolor.",
+        "location": "Mangalyaberg",
+        "following": 44,
+        "followers": 8567
+      },
+      "time": "2019-01-08T01:46:47.203Z",
+      "tweetContent": "Ipsa mollitia quia quis voluptatem nesciunt dicta minus incidunt velit. Totam debitis nihil veritatis ut eius inventore.",
+      "likes": 242,
+      "retweets": 356,
+      "replies": 477
+    },
+    {
+      "id": 24,
+      "user": {
+        "name": "Akshita Embranthiri",
+        "username": "Deepesh0",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/faisalabid/128.jpg",
+        "cover": "http://lorempixel.com/640/480/city",
+        "bio": "Dignissimos quo sequi ratione.",
+        "location": "Reddybury",
+        "following": 5,
+        "followers": 7972
+      },
+      "time": "2019-01-04T17:16:32.374Z",
+      "tweetContent": "Vero ea quisquam et ea maxime doloribus sit enim. Laboriosam praesentium est itaque illum fuga earum sunt.",
+      "likes": 188,
+      "retweets": 473,
+      "replies": 193
+    },
+    {
+      "id": 25,
+      "user": {
+        "name": "Mr. Bhagvan Gill",
+        "username": "Kama_Mehra33",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/chrisstumph/128.jpg",
+        "cover": "http://lorempixel.com/640/480/abstract",
+        "bio": "Veniam molestiae ullam voluptate ut.",
+        "location": "Varrierland",
+        "following": 646,
+        "followers": 4958
+      },
+      "time": "2019-01-07T22:17:52.184Z",
+      "tweetContent": "Id qui qui rerum amet hic. Molestiae laudantium sed odit placeat impedit est deserunt eligendi necessitatibus.",
+      "likes": 176,
+      "retweets": 293,
+      "replies": 386
+    },
+    {
+      "id": 26,
+      "user": {
+        "name": "Eekalabya Bhattacharya",
+        "username": "Aalok.Dubashi",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/aio___/128.jpg",
+        "cover": "http://lorempixel.com/640/480/food",
+        "bio": "Nulla non nostrum et ducimus quae est unde ut qui.",
+        "location": "Lake Rageswarifurt",
+        "following": 858,
+        "followers": 3316
+      },
+      "time": "2019-01-04T14:03:59.416Z",
+      "tweetContent": "Est quis est voluptas impedit totam. Exercitationem voluptatem repellat similique sint necessitatibus et nisi numquam voluptatem.",
+      "likes": 251,
+      "retweets": 141,
+      "replies": 179
+    },
+    {
+      "id": 27,
+      "user": {
+        "name": "Deveshwar Agarwal",
+        "username": "Devasree_Reddy6",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/runningskull/128.jpg",
+        "cover": "http://lorempixel.com/640/480/technics",
+        "bio": "Vitae et est amet.",
+        "location": "New Jay",
+        "following": 653,
+        "followers": 6716
+      },
+      "time": "2019-01-03T18:07:28.550Z",
+      "tweetContent": "Voluptatem qui qui reprehenderit nemo. Ea ut vel consequatur.",
+      "likes": 109,
+      "retweets": 271,
+      "replies": 50
+    },
+    {
+      "id": 28,
+      "user": {
+        "name": "Akshainie Kaur",
+        "username": "Narayan_Gill",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/xripunov/128.jpg",
+        "cover": "http://lorempixel.com/640/480/nightlife",
+        "bio": "Quos saepe corrupti repudiandae voluptatem voluptas sit.",
+        "location": "Aamodton",
+        "following": 307,
+        "followers": 2451
+      },
+      "time": "2019-01-07T13:19:49.008Z",
+      "tweetContent": "Ipsum cumque dolores soluta non animi aut molestiae ad. Quaerat hic excepturi.",
+      "likes": 355,
+      "retweets": 73,
+      "replies": 433
+    },
+    {
+      "id": 29,
+      "user": {
+        "name": "Rageswari Chaturvedi",
+        "username": "Kanak.Kocchar",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/dutchnadia/128.jpg",
+        "cover": "http://lorempixel.com/640/480/abstract",
+        "bio": "Autem ut quia veniam hic dignissimos vel porro perspiciatis quia.",
+        "location": "Charvistad",
+        "following": 136,
+        "followers": 2891
+      },
+      "time": "2019-01-10T08:04:26.144Z",
+      "tweetContent": "Unde voluptatum non dolore suscipit suscipit sit placeat ut aut. Eos nobis molestiae qui a.",
+      "likes": 294,
+      "retweets": 481,
+      "replies": 252
+    }
+  ],
+  "userTweets": [
+    {
+      "id": 0,
+      "tweetContent": "Quisquam explicabo velit repudiandae ducimus rerum non aut. Iste odit consectetur mollitia est excepturi atque officiis similique culpa.",
+      "likes": 38,
+      "retweets": 334,
+      "replies": 104
+    },
+    {
+      "id": 1,
+      "tweetContent": "Quod perspiciatis iusto reiciendis minus dolore odit. Earum corporis itaque odio labore eum maiores odit dolores.",
+      "likes": 64,
+      "retweets": 100,
+      "replies": 41
+    },
+    {
+      "id": 2,
+      "tweetContent": "A tempora laudantium iusto rem quia ut deserunt ut iusto. Sed molestiae architecto occaecati possimus autem assumenda.",
+      "likes": 324,
+      "retweets": 16,
+      "replies": 235
+    },
+    {
+      "id": 3,
+      "tweetContent": "Molestiae optio ea. Quia aut rem qui quo tempore.",
+      "likes": 464,
+      "retweets": 453,
+      "replies": 11
+    },
+    {
+      "id": 4,
+      "tweetContent": "Voluptas dignissimos dolorem esse modi. Omnis nam maxime architecto temporibus quisquam magnam.",
+      "likes": 384,
+      "retweets": 174,
+      "replies": 37
+    },
+    {
+      "id": 5,
+      "tweetContent": "Optio eaque sint repellat dolorem. Ut sit odio accusantium consequuntur sed iusto hic.",
+      "likes": 318,
+      "retweets": 491,
+      "replies": 390
+    },
+    {
+      "id": 6,
+      "tweetContent": "Rem aut maxime eius explicabo et. Facere animi aut aut.",
+      "likes": 188,
+      "retweets": 470,
+      "replies": 89
+    },
+    {
+      "id": 7,
+      "tweetContent": "Ullam asperiores recusandae perspiciatis eligendi libero neque. Corporis vitae repellendus modi expedita error cupiditate.",
+      "likes": 415,
+      "retweets": 114,
+      "replies": 402
+    },
+    {
+      "id": 8,
+      "tweetContent": "Ea voluptatum tempore nisi ex neque exercitationem fuga esse. Et adipisci odio earum et consequuntur quod perferendis.",
+      "likes": 194,
+      "retweets": 113,
+      "replies": 361
+    },
+    {
+      "id": 9,
+      "tweetContent": "Praesentium est culpa. Enim velit eius quas velit provident.",
+      "likes": 264,
+      "retweets": 285,
+      "replies": 50
+    },
+    {
+      "id": 10,
+      "tweetContent": "Ut quasi voluptatum cum quia qui in. In exercitationem accusantium.",
+      "likes": 482,
+      "retweets": 465,
+      "replies": 196
+    },
+    {
+      "id": 11,
+      "tweetContent": "Ducimus aliquam consequuntur et sit autem est. Quibusdam est rem in.",
+      "likes": 375,
+      "retweets": 107,
+      "replies": 120
+    },
+    {
+      "id": 12,
+      "tweetContent": "Sequi distinctio voluptatibus placeat corporis. Iusto dignissimos temporibus voluptatibus aut.",
+      "likes": 367,
+      "retweets": 240,
+      "replies": 214
+    },
+    {
+      "id": 13,
+      "tweetContent": "Expedita quia id ipsa ex voluptates explicabo. Sint qui harum voluptatem architecto necessitatibus.",
+      "likes": 222,
+      "retweets": 29,
+      "replies": 202
+    },
+    {
+      "id": 14,
+      "tweetContent": "Vero et tenetur magnam. Accusantium odit est maxime aspernatur corrupti quis illo consequatur dolor.",
+      "likes": 165,
+      "retweets": 214,
+      "replies": 197
+    },
+    {
+      "id": 15,
+      "tweetContent": "Sunt reprehenderit sed iusto. Non consequatur consequuntur consequatur sit est.",
+      "likes": 119,
+      "retweets": 151,
+      "replies": 463
+    },
+    {
+      "id": 16,
+      "tweetContent": "Libero est iure veniam non omnis dolores. Et unde provident temporibus dolores quasi ipsam eum.",
+      "likes": 433,
+      "retweets": 427,
+      "replies": 153
+    },
+    {
+      "id": 17,
+      "tweetContent": "Eligendi aut eos doloribus necessitatibus vel. Expedita consequatur non pariatur possimus.",
+      "likes": 434,
+      "retweets": 338,
+      "replies": 398
+    },
+    {
+      "id": 18,
+      "tweetContent": "Rerum omnis recusandae id. Perferendis ratione repudiandae aperiam aut consequuntur vel rerum repudiandae.",
+      "likes": 35,
+      "retweets": 252,
+      "replies": 29
+    },
+    {
+      "id": 19,
+      "tweetContent": "Enim vel non iusto placeat praesentium qui similique. Eveniet accusantium est omnis est asperiores quia porro modi et.",
+      "likes": 130,
+      "retweets": 198,
+      "replies": 382
+    }
+  ],
+  "login": {
+    "username": "Batman",
+    "password": "bruce",
+    "name": "Batman",
+    "bio": "The watchful protector",
+    "location": "Gotham",
+    "following": 0,
+    "followers": 999,
+    "cover": "http://awesomwallpaper.com/img2/D4996B4DDE3D3141/batman-minimalistic-dark-dc-comics-bat-grey-logos-simple-batman-logo.jpg",
+    "avatar": "https://i.pinimg.com/originals/21/75/65/21756520fd48715a506661964c6ddf7a.jpg"
+  },
+  "tweetReplies": [
+    {
+      "id": 0,
+      "user": {
+        "name": "Gobinda Butt",
+        "username": "Devdan62",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/allfordesign/128.jpg",
+        "cover": "http://lorempixel.com/640/480/food",
+        "bio": "In sunt expedita laudantium voluptas dignissimos odit alias tempora.",
+        "location": "Kapoorton",
+        "following": 1000,
+        "followers": 3261
+      },
+      "time": "2019-01-08T08:21:46.848Z",
+      "tweetContent": "Dolores quibusdam ratione minima non expedita. Ad quia aliquam.",
+      "likes": 9,
+      "retweets": 0,
+      "replies": 5
+    },
+    {
+      "id": 1,
+      "user": {
+        "name": "Anurag Pandey",
+        "username": "Gautam13",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/craigelimeliah/128.jpg",
+        "cover": "http://lorempixel.com/640/480/nature",
+        "bio": "Numquam minus pariatur iusto ut id.",
+        "location": "Embranthiriville",
+        "following": 278,
+        "followers": 3568
+      },
+      "time": "2019-01-03T10:16:23.435Z",
+      "tweetContent": "Eius doloremque voluptatum et. Quas ea vel quae et in nihil accusantium ut dolorem.",
+      "likes": 9,
+      "retweets": 1,
+      "replies": 3
+    },
+    {
+      "id": 2,
+      "user": {
+        "name": "Alok Namboothiri",
+        "username": "Amrit_Varrier",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/johannesneu/128.jpg",
+        "cover": "http://lorempixel.com/640/480/food",
+        "bio": "Reprehenderit molestias in adipisci sed numquam dolor.",
+        "location": "Gautamside",
+        "following": 253,
+        "followers": 7424
+      },
+      "time": "2019-01-03T21:16:50.608Z",
+      "tweetContent": "Qui temporibus nemo beatae ratione dolores quos aut. Dolorem est neque beatae dicta vero et.",
+      "likes": 6,
+      "retweets": 1,
+      "replies": 1
+    },
+    {
+      "id": 3,
+      "user": {
+        "name": "Mangala Bhattacharya",
+        "username": "Drona.Adiga35",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/oksanafrewer/128.jpg",
+        "cover": "http://lorempixel.com/640/480/sports",
+        "bio": "Recusandae non eos quo.",
+        "location": "Abbottberg",
+        "following": 714,
+        "followers": 2743
+      },
+      "time": "2019-01-07T10:19:45.425Z",
+      "tweetContent": "Beatae ipsa nihil suscipit atque saepe non et distinctio id. Ut hic minus facilis asperiores maiores dolorem consequatur reiciendis ut.",
+      "likes": 10,
+      "retweets": 6,
+      "replies": 0
+    },
+    {
+      "id": 4,
+      "user": {
+        "name": "Ankal Bharadwaj",
+        "username": "Pushti41",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/dimaposnyy/128.jpg",
+        "cover": "http://lorempixel.com/640/480/sports",
+        "bio": "Sint vitae qui illo ut vero.",
+        "location": "Swarafort",
+        "following": 863,
+        "followers": 8430
+      },
+      "time": "2019-01-10T09:30:01.346Z",
+      "tweetContent": "Neque voluptatem ut molestias ut quo. Pariatur explicabo consequatur assumenda id unde aperiam vitae.",
+      "likes": 8,
+      "retweets": 2,
+      "replies": 5
+    },
+    {
+      "id": 5,
+      "user": {
+        "name": "Lai Varman",
+        "username": "Anshula_Mahajan",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/zackeeler/128.jpg",
+        "cover": "http://lorempixel.com/640/480/nature",
+        "bio": "Quo error autem voluptas voluptates dolor et et et ut.",
+        "location": "Bandopadhyayside",
+        "following": 788,
+        "followers": 4737
+      },
+      "time": "2019-01-08T04:56:16.533Z",
+      "tweetContent": "Et odit aut omnis ratione et itaque doloribus repellendus. Doloribus quo explicabo quaerat tempora ut qui consequatur amet.",
+      "likes": 5,
+      "retweets": 0,
+      "replies": 4
+    },
+    {
+      "id": 6,
+      "user": {
+        "name": "Dhatri Pilla",
+        "username": "Kanaka94",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/atanism/128.jpg",
+        "cover": "http://lorempixel.com/640/480/fashion",
+        "bio": "Iure fugiat ad non molestiae totam sint eaque molestias.",
+        "location": "Shobhanatown",
+        "following": 487,
+        "followers": 5983
+      },
+      "time": "2019-01-03T21:16:51.449Z",
+      "tweetContent": "Ea rerum odio est laudantium vero deleniti tempora nostrum. Consequatur error modi.",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 5
+    },
+    {
+      "id": 7,
+      "user": {
+        "name": "Laxmi Rana",
+        "username": "Lavanya53",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/homka/128.jpg",
+        "cover": "http://lorempixel.com/640/480/business",
+        "bio": "Aliquam sequi non sint impedit asperiores ullam amet facere.",
+        "location": "Aadinathfurt",
+        "following": 379,
+        "followers": 2335
+      },
+      "time": "2019-01-05T14:03:28.209Z",
+      "tweetContent": "Quas consequatur id sint quia non. Illo necessitatibus recusandae voluptatem in pariatur culpa inventore deserunt.",
+      "likes": 0,
+      "retweets": 1,
+      "replies": 2
+    },
+    {
+      "id": 8,
+      "user": {
+        "name": "Shubha Kapoor",
+        "username": "Amish29",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josecarlospsh/128.jpg",
+        "cover": "http://lorempixel.com/640/480/city",
+        "bio": "Odit debitis impedit et vel velit dolorum atque natus.",
+        "location": "Vermabury",
+        "following": 453,
+        "followers": 6278
+      },
+      "time": "2019-01-09T10:51:38.001Z",
+      "tweetContent": "Ut architecto odio ut qui facilis et et et. Ipsam earum quia.",
+      "likes": 2,
+      "retweets": 3,
+      "replies": 3
+    },
+    {
+      "id": 9,
+      "user": {
+        "name": "Dhana Menon",
+        "username": "Aadidev.Kocchar11",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/funwatercat/128.jpg",
+        "cover": "http://lorempixel.com/640/480/technics",
+        "bio": "Quis iste sunt id voluptate expedita minus fugit impedit.",
+        "location": "North Dinesh",
+        "following": 367,
+        "followers": 8405
+      },
+      "time": "2019-01-02T10:00:25.476Z",
+      "tweetContent": "Dolorem totam mollitia molestiae eos voluptates ut occaecati tenetur. In dicta et non praesentium ut nobis.",
+      "likes": 3,
+      "retweets": 7,
+      "replies": 5
+    }
+  ]
+}
